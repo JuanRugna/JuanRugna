@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Juan Sebastián Rugna</h1>
-    <h3 align="center">Developer from Argentina</h3>
+    <h3 align="center">Argentinian Developer from Spain</h3>
 </div>
 
 
