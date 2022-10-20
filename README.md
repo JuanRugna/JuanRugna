@@ -50,4 +50,5 @@
 
 ### 📈 My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=JuanRugna&theme=react)](https://git.io/streak-stats)
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanRugna&layout=compact)](https://github.com/JuanRugna/github-readme-stats)
