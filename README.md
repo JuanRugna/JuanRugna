@@ -46,3 +46,8 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" **alt="tailwindcss" width="40" height="40"/>
       </div>
 </div>
+---
+
+### 📈 My Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=JuanRugna&theme=react)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanrugna&layout=compact)](https://github.com/juanrugna/github-readme-stats)
