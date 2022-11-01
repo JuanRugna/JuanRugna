@@ -18,8 +18,6 @@
 ### 👨‍💻 About Me :
 
 
-- 💬 Ask me about **PHP, Java, Javascript**
-
 - 📫 How to reach me **juanrugna@hotmail.com**
 
 - 🌱 I’m currently learning **React.js and Redux**
